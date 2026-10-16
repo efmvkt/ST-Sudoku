@@ -18,7 +18,7 @@
 1. Открой SillyTavern → Extensions → Install extension
 2. Вставь URL репозитория:
    ```
-   https://github.com/ВАШ_НИКНЕЙМ/ST-Sudoku
+   https://github.com/efmvkt/ST-Sudoku
    ```
 3. Нажми Install
 4. Перезагрузи страницу
