@@ -1,8 +1,8 @@
 /* ─── ST-Sudoku Extension — тёмное стекло, цвета берутся из темы SillyTavern ─── */
 
 :root {
-    --sdk-accent: var(--SmartThemeQuoteColor, #8aa4ff);
-    --sdk-text: var(--SmartThemeBodyColor, #e6e6ee);
+    --sdk-accent: color-mix(in srgb, var(--SmartThemeQuoteColor, #8aa4ff) 55%, #fff);
+    --sdk-text: #e9e9f0;
     --sdk-muted: color-mix(in srgb, var(--sdk-text) 55%, transparent);
     --sdk-line: color-mix(in srgb, var(--sdk-accent) 22%, transparent);   /* тонкие линии */
     --sdk-line-strong: color-mix(in srgb, var(--sdk-accent) 70%, transparent); /* границы блоков 3×3 */
